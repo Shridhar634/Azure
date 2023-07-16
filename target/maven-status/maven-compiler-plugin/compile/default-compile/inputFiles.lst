@@ -1,6 +1,6 @@
-H:\Azure-Learn\springboot-thymeleaf-crud-pagination-sorting-webapp-master\src\main\java\net\javaguides\springboot\controller\EmployeeController.java
-H:\Azure-Learn\springboot-thymeleaf-crud-pagination-sorting-webapp-master\src\main\java\net\javaguides\springboot\SpringbootThymeleafCrudWebAppApplication.java
-H:\Azure-Learn\springboot-thymeleaf-crud-pagination-sorting-webapp-master\src\main\java\net\javaguides\springboot\repository\EmployeeRepository.java
-H:\Azure-Learn\springboot-thymeleaf-crud-pagination-sorting-webapp-master\src\main\java\net\javaguides\springboot\service\EmployeeService.java
-H:\Azure-Learn\springboot-thymeleaf-crud-pagination-sorting-webapp-master\src\main\java\net\javaguides\springboot\model\Employee.java
-H:\Azure-Learn\springboot-thymeleaf-crud-pagination-sorting-webapp-master\src\main\java\net\javaguides\springboot\service\EmployeeServiceImpl.java
+H:\Azure-Learn\src\main\java\net\javaguides\springboot\service\EmployeeServiceImpl.java
+H:\Azure-Learn\src\main\java\net\javaguides\springboot\model\Employee.java
+H:\Azure-Learn\src\main\java\net\javaguides\springboot\service\EmployeeService.java
+H:\Azure-Learn\src\main\java\net\javaguides\springboot\repository\EmployeeRepository.java
+H:\Azure-Learn\src\main\java\net\javaguides\springboot\SpringbootThymeleafCrudWebAppApplication.java
+H:\Azure-Learn\src\main\java\net\javaguides\springboot\controller\EmployeeController.java
