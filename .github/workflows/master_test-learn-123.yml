@@ -21,8 +21,8 @@ jobs:
         with:
           java-version: '17'
           
-      - name: list dir
-        run: ls
+      - name: change dir
+        run: cd springboot-thymeleaf-crud-pagination-sorting-webapp-master
 
       - name: Build with Maven
         run: mvn clean install
