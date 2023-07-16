@@ -22,8 +22,11 @@ jobs:
           java-version: '17'
           
       - name: change dir
-        run: cd /home/runner/work/Azure/Azure/springboot-thymeleaf-crud-pagination-sorting-webapp-master | pwd
-
+        run: cd /home/runner/work/Azure/Azure/springboot-thymeleaf-crud-pagination-sorting-webapp-master/ 
+      
+      - name: pwd and ls
+        run: pwd | ls  
+      
       - name: Build with Maven
         run: mvn clean install
 
